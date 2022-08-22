@@ -1,6 +1,5 @@
-# Spread Fullstack Developer - Flex Turismo &nbsp; &nbsp; &nbsp; 
-<img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/flex-turismo?style=for-the-badge" height="24px"/> &nbsp; 
-<img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
+# Spread Fullstack Developer - Flex Turismo &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/flex-turismo?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
+
 This is a solution to [Spread Fullstack Developer] from [Digital Innovation One](https://www.dio.me/en). Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
 
 ## Table of contents
@@ -30,8 +29,8 @@ This is a solution to [Spread Fullstack Developer] from [Digital Innovation One]
 </p>
 
 ### <b id="links">Links</b>
-- Solution URL: [GitHub Repository]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo)
+- Live Site URL: [GitHub Pages](https://bemibrando.github.io/website-study/frontend/flex-turismo/)
 
 <br />
 

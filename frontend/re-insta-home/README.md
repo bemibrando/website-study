@@ -24,8 +24,8 @@ This is a solution to [Spread Fullstack Developer] from [Digital Innovation One]
 </p>
 
 ### Links
-- Solution URL: [GitHubRepository]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/re-insta-home)
+- Live Site URL: [GitHub Pages](https://bemibrando.github.io/website-study/frontend/re-insta-home/)
 
 <br />
 

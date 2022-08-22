@@ -3,7 +3,7 @@ This repository is to include all of my study repositories at one place
 
 ## Table of Contents
 - [Overview](#overview)
-    - [Frontend](#bfrontendb)
+    - [Frontend](#frontend)
 - [Useful Resources](#useful-resources)
 - [Author](#author)
 
@@ -14,15 +14,23 @@ This repository is to include all of my study repositories at one place
     - [Flex Turismo](#bflex-turismob)
 ---
 
-### <b>Frontend</b>
----
-- <a href="https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo">[Flex Turismo](#bflex-turismob)</a>
+### <b id="frontend">Frontend</b> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/directory-file-count/bemibrando/website-study/frontend?style=for-the-badge&type=dir" height="24px">
+Currently, I have 3 frontend projects, and my best frontend project is <a>"Flex Turismo"</a> developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br> 
 
 <br>
 
-#### <b>Flex Turismo</b> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/flex-turismo?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
-Solution developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br>
+#### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo">Flex Turismo</a>
 The project goals was develop a landing page using the knowledge about HTML markups and Flexbox earned with the section "HTML/CSS3" from the course.
+
+### <b id="screenshot">Screenshot</b>
+
+<p align="center">
+    <img src="./frontend/flex-turismo/screen/desktop.gif" alt="Landing page solution desktop view" width="457px">
+    <img src="./frontend/flex-turismo/screen/cellphone.gif" alt="Landing page solution cellphone view" width="457px">
+</p>
+
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo)
+- Live Site URL: [GitHub Pages](https://bemibrando.github.io/website-study/frontend/flex-turismo/)
 
 <br /><br />
 
