@@ -11,7 +11,6 @@ This repository is to include all of my study repositories at one place
 
 ## Overview
 - [Front-end](#bfront-endb)
-    - [Flex Turismo](#bflex-turismob)
 ---
 
 ### <b id="frontend">Frontend</b> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/directory-file-count/bemibrando/website-study/frontend?style=for-the-badge&type=dir" height="24px">
@@ -20,6 +19,7 @@ Currently, I have 3 frontend projects, and my best frontend project is <a>"Flex 
 <br>
 
 #### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo">Flex Turismo</a>
+
 The project goals was develop a landing page using the knowledge about HTML markups and Flexbox earned with the section "HTML/CSS3" from the course.
 
 ### <b id="screenshot">Screenshot</b>
@@ -37,6 +37,7 @@ The project goals was develop a landing page using the knowledge about HTML mark
 ## Useful resources
 ---
 - [Dio - Digital Innovation One](https://www.dio.me/en) - Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
+- [Shields.io](https://shields.io/) - Shields.io is a service that allows you to generate badges for your projects.
 
 <br /><br />
 
