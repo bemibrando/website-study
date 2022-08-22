@@ -3,6 +3,7 @@ This repository is to include all of my study repositories at one place
 
 ## Table of Contents
 - [Overview](#overview)
+    - [Backend](#backend)
     - [Frontend](#frontend)
 - [Useful Resources](#useful-resources)
 - [Author](#author)
@@ -10,11 +11,15 @@ This repository is to include all of my study repositories at one place
 <br>
 
 ## Overview
-- [Front-end](#bfront-endb)
+- [Backend](#backend)
+- [Front-end](#frontend)
+
+### <b id="backend">Backend</b>  &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/directory-file-count/bemibrando/website-study/backend?style=for-the-badge&type=dir" height="24px">
+My best backend project is the Authentication Microservice developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en). <br />
 ---
 
 ### <b id="frontend">Frontend</b> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/directory-file-count/bemibrando/website-study/frontend?style=for-the-badge&type=dir" height="24px">
-Currently, I have 3 frontend projects, and my best frontend project is <a>"Flex Turismo"</a> developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br> 
+My best frontend project is <a href="https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo">"Flex Turismo"</a> developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br> 
 
 <br>
 
