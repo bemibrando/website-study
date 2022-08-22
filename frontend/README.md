@@ -2,25 +2,20 @@
 This repository is to include all of my study repositories at one place
 
 ## Table of Contents
-- [Overview](#overview)
-    - [Frontend](#bfrontendb)
+- [Frontend](#bfrontendb)
+  - [Flex Turismo](#flex-turismo)
 - [Useful Resources](#useful-resources)
 - [Author](#author)
 
 <br>
 
-## Overview
-- [Front-end](#bfront-endb)
-    - [Flex Turismo](#bflex-turismob)
+## <b>Frontend</b>
 ---
-
-### <b>Frontend</b>
----
-- <a href="https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo">[Flex Turismo](#bflex-turismob)</a>
+- [Flex Turismo](#flex-turismo)
 
 <br>
 
-#### <b>Flex Turismo</b> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/flex-turismo?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
+#### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo"><b id="flex-turismo">Flex Turismo</b></a> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/flex-turismo?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
 Solution developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br>
 The project goals was develop a landing page using the knowledge about HTML markups and Flexbox earned with the section "HTML/CSS3" from the course.
 
