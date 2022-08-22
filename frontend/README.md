@@ -4,6 +4,7 @@ This repository is to include all of my study repositories at one place
 ## Table of Contents
 - [Frontend](#bfrontendb)
   - [Flex Turismo](#flex-turismo)
+  - [Re-Insta Home](#re-insta-home)
 - [Useful Resources](#useful-resources)
 - [Author](#author)
 
@@ -12,12 +13,19 @@ This repository is to include all of my study repositories at one place
 ## <b>Frontend</b>
 ---
 - [Flex Turismo](#flex-turismo)
+- [Re-Insta Home](#re-insta-home)
 
 <br>
 
 #### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo"><b id="flex-turismo">Flex Turismo</b></a> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/flex-turismo?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
 Solution developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br>
 The project goals was develop a landing page using the knowledge about HTML markups and Flexbox earned with the section "HTML/CSS3" from the course.
+
+<br />
+
+#### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/re-insta"><b id="re-insta-home">Re-Insta Home</b></a> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/re-insta?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
+Solution developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br>
+The challenge was to build a project using a instagram page that was availiable to me.
 
 <br /><br />
 
