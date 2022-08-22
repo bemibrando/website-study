@@ -3,7 +3,7 @@ This repository is to include all of my study repositories at one place
 
 ## Table of Contents
 - [Overview](#overview)
-    - [Frontend](#bfrontendb)
+    - [Frontend](#frontend)
 - [Useful Resources](#useful-resources)
 - [Author](#author)
 
@@ -13,10 +13,13 @@ This repository is to include all of my study repositories at one place
 - [Front-end](#bfront-endb)
 ---
 
-### <b>Frontend</b> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/directory-file-count/bemibrando/website-study/frontend?style=for-the-badge" height="24px">
+### <b id="frontend">Frontend</b> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/directory-file-count/bemibrando/website-study/frontend?style=for-the-badge&type=dir" height="24px">
 Currently, I have 3 frontend projects, and my best frontend project is <a>"Flex Turismo"</a> developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br> 
 
-### <a>Flex Turismo</a>
+<br>
+
+#### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo">Flex Turismo</a>
+
 The project goals was develop a landing page using the knowledge about HTML markups and Flexbox earned with the section "HTML/CSS3" from the course.
 
 ### <b id="screenshot">Screenshot</b>
@@ -26,6 +29,8 @@ The project goals was develop a landing page using the knowledge about HTML mark
     <img src="./frontend/flex-turismo/screen/cellphone.gif" alt="Landing page solution cellphone view" width="457px">
 </p>
 
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo)
+- Live Site URL: [GitHub Pages](https://bemibrando.github.io/website-study/frontend/flex-turismo/)
 
 <br /><br />
 

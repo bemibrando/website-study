@@ -1,51 +1,46 @@
-# Spread Fullstack Developer - Flex Turismo &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/flex-turismo?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
-
+# Spread Fullstack Developer - Recreating the Instagram Page Solution &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/re-insta?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
 This is a solution to [Spread Fullstack Developer] from [Digital Innovation One](https://www.dio.me/en). Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
 
-## Table of contents
-
+## Table of Contents
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+    - [The Challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+- [My Process](#my-process)
+    - [Build With](#build-with)
+    - [What I Learned](#what-i-learned)
 - [Author](#author)
-
-<br />
 
 ## Overview
 ---
+### The Challenge
+- the challenge was to build a project using a instagram page that was availiable to me
 
-### <b id="the-challenge">The challenge</b>
-- The project goals was develop a landing page using the knowledge about HTML markups and Flexbox earned with the section "HTML/CSS3" from the course.
-
-### <b id="screenshot">Screenshot</b>
-
+### Screenshot
 <p align="center">
-    <img src="./screen/desktop.gif" alt="Landing page solution desktop view" width="457px">
-    <img src="./screen/cellphone.gif" alt="Landing page solution cellphone view" width="457px">
+    <img src="./screen/desktop.png" alt="Instagram page solution desktop view" width="457px">
+    <img src="./screen/tablet.png" alt="Instagram page solution tablet view" width="320px">
+    <img src="./screen/cellphone.png" alt="Instagram page solution cellphone view" width="150px">
 </p>
 
-### <b id="links">Links</b>
-- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/flex-turismo)
-- Live Site URL: [GitHub Pages](https://bemibrando.github.io/website-study/frontend/flex-turismo/)
+### Links
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/re-insta-home)
+- Live Site URL: [GitHub Pages](https://bemibrando.github.io/website-study/frontend/re-insta-home/)
 
 <br />
 
-## My process
+## My Process
 ---
 
-### <b id="built-with">Built with</b>
-
+### Build with
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
-### <b id="what-i-learned">What I learned</b>
-I learn how to create cards and organize site components with "container-outside"
+### What I learned
+With this project, I understand better how "display: flex" works
+
+<br />
 
 ## Author
 ---
