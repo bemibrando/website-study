@@ -43,6 +43,8 @@ The project goals was develop a landing page using the knowledge about HTML mark
 ---
 - [Dio - Digital Innovation One](https://www.dio.me/en) - Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
 - [Shields.io](https://shields.io/) - Shields.io is a service that allows you to generate badges for your projects.
+- [GitHub Pages](https://pages.github.com/) - GitHub Pages is a service that allows you to host your projects on GitHub.
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Badges with development technologies for projects.
 
 <br /><br />
 

@@ -1,7 +1,13 @@
 # Spread Fullstack Developer - Authentication Microservice solution &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/ms-authentication?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
-This is a solution to Spread Fullstack Developer from [Digital Innovation One](https://www.dio.me/en). Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
-
-<br />
+This is a solution to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en). Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
+<br/><br/>
+<b>Build with:</b> <br/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="24px"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="24px" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="24px" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="24px" />
+<img src="" height="24px" />
+<img src="" height="24px" />
+<br /><br />
 
 ## Table of Contents
 
@@ -14,10 +20,12 @@ This is a solution to Spread Fullstack Developer from [Digital Innovation One](h
   - [What I learned](#bwhat-i-learnedb)
 - [Author](#author)
 
+<br />
+
 ## Overview
 ---
 ### <b>The Challenge</b>
-- Create a Authentication Microservice that will be able to compose your toolbox and be very useful in your day to day
+- Create an Authentication Microservice that will be able to compose your toolbox and be very useful in your day to day.
 
 <br />
 
@@ -36,7 +44,7 @@ This is a solution to Spread Fullstack Developer from [Digital Innovation One](h
 <br />
 
 ### <b>Links</b>
-- Solution URL: [](https://github.com/bemibrando/my-website-study/tree/main/backend/ms-authentication)
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/my-website-study/tree/main/backend/ms-authentication)
 
 <br /><br />
 
