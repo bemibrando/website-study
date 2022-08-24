@@ -130,7 +130,9 @@ ul{
 a{
     text-decoration: none;
 }
-
+p{
+    text-align: justify;
+}
 hr{
     border: 1px solid var(--light-purple-color);
 }
@@ -267,8 +269,20 @@ hr{
 }
 /*#endregion*/
 /*#region   PHONE-INPUT */
-.phone-input{
-    background-color: #0b0b0b;
+.PhoneInput{
+    margin: 1rem;
+}
+
+.PhoneInputCounty{
+
+}
+
+#input-phone{
+    border: 1px solid var(--purple-color);
+    border-radius: var(--border-radius);
+    color: var(--black-color);
+    padding: .5rem 1rem;
+
 }
 /*#endregion*/
 

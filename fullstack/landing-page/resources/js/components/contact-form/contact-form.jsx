@@ -133,6 +133,15 @@ export default function ContactForm(){
                                 Adicionar Arquivo
                             </S.FileButton>
                         );
+                    case "input-message":
+                        return(
+                            <S.MessageInput
+                                key={item.id}
+                                {...item}
+                                value={values[item.name]}
+                                onChange={onChange}
+                            />
+                        );
                     default:
                         return (
                             <FormInput

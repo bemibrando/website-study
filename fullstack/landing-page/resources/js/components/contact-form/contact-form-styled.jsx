@@ -7,7 +7,7 @@ export const ContactForm = styled.form`
     background-color: var(--light-purple-color);
     width: 45%;
     margin: 0;
-
+    text-align: center;
 `;
 
 export const InputDiv = styled.div`
@@ -27,7 +27,7 @@ export const Input = styled.input`
     border-radius: var(--border-radius);
     width: 100%;
     box-sizing: border-box;
-    color: var(--gray-color);
+    color: var(--black-color);
     font-size: var(--font-size-p);
 
     &[type="file"]{
@@ -61,8 +61,6 @@ export const FileButton = styled.label`
         border: 1px solid var(--dark-purple-color);
         background-color: var(--light-purple-color);
         color: var(--purple-color);
-
-
     }
 `;
 
@@ -76,6 +74,19 @@ export const FileSVG = styled.img`
     }
 `;
 
+export const MessageInput = styled.textarea`
+    margin: 1rem;
+    padding: .5rem 1rem;
+    border: 1px solid var(--purple-color);
+    border-radius: var(--border-radius);
+    width: -webkit-fill-available;
+    box-sizing: border-box;
+    color: var(--black-color);
+    font-size: var(--font-size-p);
+    height: 5rem;
+    resize: none;
+`;
+
 export const errorMessage = styled.span`
     color: red;
     display: none;
@@ -84,13 +95,13 @@ export const errorMessage = styled.span`
 export const ContactSubmit = styled.button`
     width: fit-content;
     height: fit-content;
-    align-self: center;
     font-size: var(--font-size-button);
     border: .15rem solid var(--purple-color);
     color: var(--white-color);
     background-color: var(--purple-color);
     border-radius: var(--border-radius);
     padding: .25rem 1rem;
+    margin: 1rem;
 
     &:hover{
         cursor: pointer;
