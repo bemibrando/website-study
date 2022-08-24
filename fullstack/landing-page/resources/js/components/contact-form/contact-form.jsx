@@ -94,6 +94,11 @@ export default function ContactForm(){
         console.log(values);
     };
 
+    const onPhoneChange = (phoneNumber) => {
+        setValues({ ...values, phone: phoneNumber });
+        console.log(values);
+    };
+
     return (
         <S.ContactForm onSubmit={handleSubmit}>
             {inputs.map((item) => {
@@ -112,7 +117,7 @@ export default function ContactForm(){
                                 flagUrl="https://flag.pk/flags/4x3/{xx}.svg"
 
                                 value={values[item.name]}
-                                onChange={onChange}
+                                onChange={onPhoneChange}
                             />
                         );
                     case "input-file":
