@@ -1,5 +1,11 @@
 # Spread Fullstack Developer - Recreating the Instagram Page Solution &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/feature/re-insta?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
 This is a solution to [Spread Fullstack Developer] from [Digital Innovation One](https://www.dio.me/en). Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
+<br/><br/>
+<b>Build with:</b> <br/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" />
+
+<br />
 
 ## Table of Contents
 - [Overview](#overview)
