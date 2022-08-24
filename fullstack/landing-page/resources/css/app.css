@@ -303,6 +303,12 @@ hr{
     max-height: var(--section-height-sm);
 }
 
+#carte{
+    max-width: 100%;
+    max-height: var(--section-height-sm);
+    background-color: var(--light-purple-color);
+}
+
 #what-we-believe,
 #grow-your-business{
     max-height: var(--section-height);

@@ -18,7 +18,8 @@
     <main id="page-main">
         <section id="carousel"></section>
         <section id="what-we-believe"></section>
-        <hr/>
+        <hr/> <br/>
+        <section id="carte"></section>
         <section id="short-article"></section>
         <hr/>
         <section id="grow-your-business"></section>

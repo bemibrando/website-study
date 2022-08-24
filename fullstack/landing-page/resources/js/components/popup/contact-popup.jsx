@@ -29,7 +29,7 @@ export function ContactButton(props){
 }
 
 export default function ContactDiv(props){
-    const [buttonPopup, setButtonPopup] = useState(true);
+    const [buttonPopup, setButtonPopup] = useState(false);
     const node = useRef();
 
     useOnClickOutside(node, () => setButtonPopup(false));

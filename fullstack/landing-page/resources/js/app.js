@@ -9,3 +9,5 @@ import './pages/home/services-carousel';
 import './pages/home/what-we-believe';
 import './pages/home/short-article';
 import './pages/home/grow-your-business';
+
+import './pages/carte/carte';
