@@ -10,3 +10,6 @@ export const Carte = styled.div`
 
 export const CarteTitle = styled.h2`
 `;
+
+export const CarteItemContainer = styled.div`
+`;
