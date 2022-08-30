@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";	
+import TabContent from "./tab-content";
 import Tab from "./tab-item";
 import * as S from "./tabs-styled";
 
@@ -32,27 +33,24 @@ class Tabs extends Component{
         } = this;
 
         return (
-            <S.Tabs className="tabs">
-            <S.TabList className="tab-list">
-              {children.map((child) => {
-                const { label } = child.props;
-    
-                return (
-                  <Tab
-                    activeTab={activeTab}
-                    key={label}
-                    label={label}
-                    onClick={onClickTabItem}
-                  />
-                );
-              })}
-            </S.TabList>
-            <S.TabContent className="tab-content">
-              {children.map((child) => {
-                if (child.props.label !== activeTab) return undefined;
-                return child.props.children;
-              })}
-            </S.TabContent>
+          <S.Tabs className="tabs">
+              <S.TabList className="tab-list">
+                {children.map((child) => {
+                  const { label } = child.props;
+      
+                  return (
+                    <Tab
+                      activeTab={activeTab}
+                      key={label}
+                      label={label}
+                      onClick={onClickTabItem}
+                    />
+                  );
+                })}
+              </S.TabList>
+              <TabContent activeTab={activeTab} className="tab-content">
+                {children}
+              </TabContent>
           </S.Tabs>
         );
     }

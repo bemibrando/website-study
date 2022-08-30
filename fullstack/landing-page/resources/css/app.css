@@ -296,11 +296,13 @@ hr{
     position: fixed;
     height: var(--header-height);
     background-color: var(--white-color);
+    z-index: var(--z-header);
 }
 
 #carousel{
     max-width: 100%;
     max-height: var(--section-height-sm);
+    display: flex;
 }
 
 #carte{
