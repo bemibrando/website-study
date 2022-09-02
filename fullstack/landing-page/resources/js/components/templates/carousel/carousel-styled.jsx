@@ -5,24 +5,24 @@ export const CarouselContainer = styled.div`
     width: var(--section-width);
 
     display: flex;
-    align-items: center;
-    cursor: grab;
+    align-items: center;/*
+    cursor: grab;*/
     
     -webkit-user-select: none; /* Safari */  
     -ms-user-select: none; /* IE 10 and IE 11 */  
     user-select: none; 
     
-    &:active{
+    &:active{/*
         cursor: grabbing;
-        cursor: -webkit-grabbing;
+        cursor: -webkit-grabbing;*/
     }
 `;
 
 export const CarouselInner = styled.div`
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     justify-content: center;
-
-    border: 1px solid var(--purple-color);
+    
     width: 100%;
     height: 100%;
     
@@ -36,7 +36,7 @@ export const CarouselLeft = styled.div`
     top: 0;
     height: var(--section-height);
     width: 15vw;
-    background-color: var(--purple-color);
+    background-color: transparent;
 `;
 
 export const CarouselRight = styled.div`
@@ -46,7 +46,7 @@ export const CarouselRight = styled.div`
     top: 0;
     height: var(--section-height);
     width: 15vw;
-    background-color: var(--purple-color);
+    background-color: transparent;
 `;
 
 export const CarouselInnerImage = styled.div`
@@ -60,25 +60,37 @@ export const CarouselImage = styled.img`
     background-image: url(${props => props.src});
     background-position: right;
     background-repeat: no-repeat;
+    pointer-events: none;
     
     transform: translateX(${props => props.currIndex*-100}vw);
 `;
 
 export const CarouselContentContainer = styled.div`
-    max-width: var(--section-width);
     margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
 `;
 
 export const CarouselTitle = styled.h1`
     width: 60%;
     font-size: var(--font-size-lg);
+
+    @media screen and (min-width: 1240px) {
+        width: 100%;
+    }
 `;
 
 export const CarouselText = styled.p`
     width: 45%;
     font-size: var(--font-size-p);
     margin: .5rem 0 1rem;
+
+    
+    @media screen and (min-width: 1240px) {
+        width: 60%;
+    }
 `;
 export const CarouselLink = styled.a`
     width: auto;

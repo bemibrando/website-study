@@ -1,24 +1,17 @@
 import React, {useState} from "react";
 import ReactDOM from "react-dom";
 import * as S from "./carousel-styled";
-import ContactDiv from "../../popup/contact-popup";
-import { banners } from "../../../helpers/carousel-data";
 
 export default function Carousel(props){
+    const { children, show, infiniteLoop } = props;
 
     const [currImg, setCurrImg] = useState(0);
-    const [length, setLength] = useState(banners.length);
+    const [length, setLength] = useState(children.length);
 
     const [isRepeating, setIsRepeating] = useState(true);
     const [transitionEnabled, setTransitionEnabled] = useState(true);
 
     const [touchPosition, setTouchPosition] = useState(null);
-
-    // set the length to match current banners
-    useEffect(() => {
-        setLength(banners.length);
-        setIsRepeating(true);
-    }, [banners]);
 
 //#region --- functions to control buttons click
     const next = () => {
@@ -109,11 +102,6 @@ export default function Carousel(props){
                 <S.CarouselInnerImage currIndex={currImg}>
                     <S.CarouselImage src={banners[currImg].img} alt={banners[currImg].alt} />
                 </S.CarouselInnerImage>
-                <S.CarouselContentContainer>
-                    <S.CarouselTitle>Title</S.CarouselTitle>
-                    <S.CarouselText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum convallis sed turpis sed luctus. Nulla mattis urna mattis tortor finibus, et vehicula magna tincidunt.</S.CarouselText>
-                    <ContactDiv textContent={"Solicitar Proposta"}/>
-                </S.CarouselContentContainer>
             </S.CarouselInner>
             <S.CarouselRight onClick={next}></S.CarouselRight>
         </S.CarouselContainer>

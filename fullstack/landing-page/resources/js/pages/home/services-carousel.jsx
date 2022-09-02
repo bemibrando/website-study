@@ -1,10 +1,10 @@
-import React, { useState, useEffect} from "react";
+import React, {useState} from "react";
 import ReactDOM from "react-dom";
-import * as S from "../../components/templates/carousel/carousel-styled";
-import ContactDiv from "../../components/popup/contact-popup";
+import * as S from "./carousel-styled";
+import ContactDiv from "../../popup/contact-popup";
 import { banners } from "../../../helpers/carousel-data";
 
-export default function Carousel(props){
+export default function Carousel(){
 
     const [currImg, setCurrImg] = useState(0);
     const [length, setLength] = useState(banners.length);
@@ -110,7 +110,7 @@ export default function Carousel(props){
                     <S.CarouselImage src={banners[currImg].img} alt={banners[currImg].alt} />
                 </S.CarouselInnerImage>
                 <S.CarouselContentContainer>
-                    <S.CarouselTitle>Desenvolvimento Web</S.CarouselTitle>
+                    <S.CarouselTitle>Title</S.CarouselTitle>
                     <S.CarouselText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum convallis sed turpis sed luctus. Nulla mattis urna mattis tortor finibus, et vehicula magna tincidunt.</S.CarouselText>
                     <ContactDiv textContent={"Solicitar Proposta"}/>
                 </S.CarouselContentContainer>

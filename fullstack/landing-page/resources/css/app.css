@@ -307,7 +307,7 @@ hr{
 
 #carte{
     max-width: 100%;
-    max-height: var(--section-height-sm);
+    max-height: 110vh;
     background-color: var(--light-purple-color);
 }
 

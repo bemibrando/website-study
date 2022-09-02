@@ -14,6 +14,7 @@ class Tabs extends Component{
 
         this.state = {
             activeTab: this.props.children[0].props.label,
+            activePage: 1,
         };
     }
 
@@ -29,6 +30,7 @@ class Tabs extends Component{
             },
             state: {
                 activeTab,
+                activePage,
             }
         } = this;
 
@@ -48,7 +50,7 @@ class Tabs extends Component{
                   );
                 })}
               </S.TabList>
-              <TabContent activeTab={activeTab} className="tab-content">
+              <TabContent activeTab={activeTab} activePage={activePage} className="tab-content">
                 {children}
               </TabContent>
           </S.Tabs>
