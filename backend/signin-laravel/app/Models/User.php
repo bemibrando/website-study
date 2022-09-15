@@ -26,7 +26,7 @@ class User extends Model
         ])
         ->limit($limit);
 
-        dd($sql->toSql());
+        return $sql->get();
     }
 
     public static function register(Request $request){

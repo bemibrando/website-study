@@ -38,8 +38,6 @@ Done:
 - recieving correctly the inputs
 - Validate
 - Record to Database
-
-Need to:
 - create a API
 
 <br />
@@ -61,7 +59,7 @@ Need to:
 <br />
 
 <h3 id="continued-development"><b>Continued Development</b></h3>
-
+After completed the project, I add unit tests using PHPUnit and checked if my code is according to PSR.
 <br /><br />
 
 <h2 id="project-guide">How to use the Project</h2>

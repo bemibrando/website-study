@@ -2,6 +2,8 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Models\User;
+use App\Http\Controllers\API\User as ApiUser;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,10 +22,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::prefix('v1')->group(function(){
     Route::get('list', function(){
-        return ["a","b","c"];
+        return User::list(10);
     });
 
-    Route::post('register', function(){
-        echo "to implement";
-    });
+    Route::post('register', [ApiUser::class, 'save']);
 });
