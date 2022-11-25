@@ -69,7 +69,6 @@ This repository is to include all of my study repositories at one place
 
 </details>
 
-
 <br /><br />
 
 ## Useful resources
