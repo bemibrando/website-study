@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import banner from '../../asssets/banner.png'
+import banner from "../../assets/banner.png";
 
 import { Button } from '../../components/button';
 import { Header } from '../../components/header';
