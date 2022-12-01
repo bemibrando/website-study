@@ -1,10 +1,12 @@
-# Orange Tech + - Dio HomePage &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/project/dio-webpage?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
+# Orange Tech + - Calculator &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/project/calculator?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
 
 This is a solution to `Orange Tech+` from [Digital Innovation One](https://www.dio.me/en). Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
 
 <br/>
 <b>Build with:</b> <br/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" />
 
 ## Table of contents
 
@@ -24,29 +26,19 @@ This is a solution to `Orange Tech+` from [Digital Innovation One](https://www.d
 ## Overview
 
 ### <b id="the-challenge">The challenge</b>
-- The project goals was develop Dio's `homepage`, `login` page and `feed` page using the knowledge about `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
+- The project goals was develop a calculator using the knowledge about `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
 
 ### <b id="screenshot">Screenshot</b>
 
 <p align="center">
-    <img src="./src/assets/home.jpeg" alt="Dio home page solution view" width="457px" />
+    <img src="./src/assets/calculator.png" alt="Calculator page solution view" width="457px" />
 </p>
-
-<details>
-<summary>View more Screenshots</summary>
-<br />
-
-<p align="center">
-    <img src="./src/assets/login.jpeg" alt="Dio Login page solution view" width="457px" />
-    <img src="./src/assets/feed.jpeg" alt="Dio Feedpage solution view" width="457px" />
-</p>
-</details>
 
 <br />
 
 ### <b id="links">Links</b>
-- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/dio-webpage)
-- Live Site URL: [GitHub Pages](https://bemibrando.github.io/website-study/frontend/dio-webpage/)
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/calculator)
+- Live Site URL: [GitHub Pages](https://bemibrando.github.io/website-study/frontend/calculator/)
 
 <br />
 

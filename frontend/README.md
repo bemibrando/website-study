@@ -5,6 +5,8 @@ Here is only my frontend study projects.
 - [Frontend](#bfrontendb)
   - [Flex Turismo](#flex-turismo)
   - [Re-Insta Home](#re-insta-home)
+  - [Dio Webpage](#dio-homepage)
+  - [Calculator](#calculator)
 - [Useful Resources](#useful-resources)
 - [Author](#author)
 
@@ -46,6 +48,27 @@ The challenge was to build a project using a instagram page that was availiable 
 - Live Site URL: [GitHub Pages](https://bemibrando.github.io/website-study/frontend/re-insta-home/)
 
 <br /><br />
+
+#### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/dio-webpage"><b id="dio-homepage">Dio HomePage</b></a> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/project/dio-webpage?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
+Solution developed to <b>Orange Tech +</b> from [Digital Innovation One](https://www.dio.me/en).<br>
+The project goals was develop Dio's `homepage`, `login` page and `feed` page using the knowledge about `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
+
+<b>Build with:</b> <br/>
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" />
+
+<br />
+
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/dio-webpage)
+
+<br /><br />
+
+#### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/calculator"><b id="calculator">Calculator</b></a> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/project/calculator?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
+Solution developed to <b>Orange Tech +</b> from [Digital Innovation One](https://www.dio.me/en). <br />
+The project goals was develop a calculator using the knowledge about `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
+
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/calculator)
+
 <br /><br />
 
 ## Useful resources
