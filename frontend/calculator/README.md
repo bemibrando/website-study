@@ -12,6 +12,7 @@ This is a solution to `Orange Tech+` from [Digital Innovation One](https://www.d
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Project Composition](#project-composition)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -26,7 +27,18 @@ This is a solution to `Orange Tech+` from [Digital Innovation One](https://www.d
 ## Overview
 
 ### <b id="the-challenge">The challenge</b>
-- The project goals was develop a calculator using the knowledge about `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
+- The project goals was develop a calculator using the knowledge about `ReactJs` to build a componentized website and styled-components to help.
+
+### <b id="project-composition">Project Composition</b>
+
+Valid operations
+- Addition (+)
+- Subtraction (-)
+- Division (/)
+- Multiplication (*)
+- Square root ( sqrt(x) )
+- Invert base ( 1 / x )
+- Power to exponent 2 ( pow(x) ) 
 
 ### <b id="screenshot">Screenshot</b>
 

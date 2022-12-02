@@ -4,12 +4,14 @@ This is a solution to `Orange Tech+` from [Digital Innovation One](https://www.d
 
 <br/>
 <b>Build with:</b> <br/>
+
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" /><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" />
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Project Composition](#project-composition)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -25,6 +27,12 @@ This is a solution to `Orange Tech+` from [Digital Innovation One](https://www.d
 
 ### <b id="the-challenge">The challenge</b>
 - The project goals was develop a page consuming GitHub API to show up repositories using the knowledge about `ReactJs` to build a componentized website and styled-components to help.
+
+### <b id="project-composition">Project Composition</b>
+
+- Query for the existence of a repository
+- Open the repository directory if it exists
+- Delete repository from list of searched repositories
 
 ### <b id="screenshot">Screenshot</b>
 

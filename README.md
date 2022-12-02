@@ -37,18 +37,23 @@ This repository is to include all of my study repositories at one place
 
 - [Front-end](/frontend)
 
+    - [Calculator](/frontend/calculator) &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" />
+        - The project goals was develop a calculator using the knowledge about `ReactJs` to build a componentized website and styled-components to help.
+
+    - [GitHub Wiki](/frontend/github-wiki) &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" />
+        - The project goals was develop a calculator using the knowledge about `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
+
     - [Flex-Turmismo](/frontend/flex-turismo) &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" />
         - The project goals was develop a landing page using the knowledge about HTML markups and Flexbox earned with the section "HTML/CSS3" from the course.
+
+    - [Rebuild Dio Webpage](/frontend/dio-webpage/) &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" /><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" />
+        - Develop 3 webpages (homepage, login and feedpage) using ReactJs (authentication not required)
 
     - [Rebuild Instagram home](/frontend/re-insta-home) &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" />
         - The challenge was to build a project using a instagram page that was availiable to me.
 
     - [CSS landing Page](/frontend/trilha-css-landing-page) &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" />
         - Build a webpage similar to an image was provided to me using HTML and CSS only. 
-
-
-    - [Rebuild Dio Webpage](/frontend/dio-webpage/) &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" /><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" />
-        - Develop 3 webpages (homepage, login and feedpage) using ReactJs (authentication not required)
 
 </details>
 
