@@ -1,4 +1,4 @@
-# Orange Tech + - Dio HomePage &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/project/dio-webpage?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
+# Orange Tech + - GitHub Wiki &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/project/github-wiki?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
 
 This is a solution to `Orange Tech+` from [Digital Innovation One](https://www.dio.me/en). Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
 
@@ -24,29 +24,18 @@ This is a solution to `Orange Tech+` from [Digital Innovation One](https://www.d
 ## Overview
 
 ### <b id="the-challenge">The challenge</b>
-- The project goals was develop Dio's `homepage`, `login` page and `feed` page using the knowledge about `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
+- The project goals was develop a page consuming GitHub API to show up repositories using the knowledge about `ReactJs` to build a componentized website and styled-components to help.
 
 ### <b id="screenshot">Screenshot</b>
 
 <p align="center">
-    <img src="./src/assets/home.jpeg" alt="Dio home page solution view" width="457px" />
+    <img src="./src/assets/github-wiki.jpeg" alt="GitHub Wiki solution view" width="457px" />
 </p>
-
-<details>
-<summary>View more Screenshots</summary>
-<br />
-
-<p align="center">
-    <img src="./src/assets/login.jpeg" alt="Dio Login page solution view" width="457px" />
-    <img src="./src/assets/feed.jpeg" alt="Dio Feedpage solution view" width="457px" />
-</p>
-</details>
 
 <br />
 
 ### <b id="links">Links</b>
-- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/dio-webpage)
-- Live Site URL: [GitHub Pages](https://bemibrando.github.io/website-study/frontend/dio-webpage/)
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/github-wiki)
 
 <br />
 
@@ -58,13 +47,12 @@ This is a solution to `Orange Tech+` from [Digital Innovation One](https://www.d
 - CSS custom properties
 - ReactJs
 - styled-components
-- React Router Dom
 
 <br />
 
 ### <b id="what-i-learned">What I learned</b>
 - How to code Javascript with CSS using `styled-compnents`
-- How to use `React Router` to routing
+- How to handle an `API` using `React useState` 
 
 <br />
 
