@@ -28,7 +28,7 @@ This is a SQL solution for MySQL to create a `schema` for manipulation of period
 ### <b id="erd">Entity Relationship Diagram</b>
 
 <p align="center">
-    <img src="./periodicals.png" alt="Entity Relationship Diagram of Periodicals challenge" width="600px">
+    <img src="./erd.png" alt="Entity Relationship Diagram of Periodicals challenge" width="600px">
 </p>
 
 ## <b id="useful-resources">
@@ -58,4 +58,17 @@ This is a SQL solution for MySQL to create a `schema` for manipulation of period
             <img src="https://img.shields.io/badge/bemi.brando@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
         </a><br/>
     </div>
+</div>
+
+## Acknowledgments
+
+
+» Juliana Mascarenhas - Taught me how to develop a pokedex that displays multiple pokemons
+<div>
+    <a href="https://github.com/julianazanelatto" target="_blank">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/juliana-mascarenhas-ds/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </div>
