@@ -24,17 +24,17 @@ export const Title = styled.h2`
     color: #fff;
 `
 
-export const TitleLogin = styled.p`
+export const TitleRegister = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
-    width: 320px;
+    width: 25rem;
     margin-bottom: 20px;
     line-height: 44px;
 `
 
-export const SubtitleLogin = styled.p`
+export const SubtitleRegister = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
@@ -43,17 +43,16 @@ export const SubtitleLogin = styled.p`
     margin-bottom: 35px;
     line-height: 25px;
 `
-export const ForgotText = styled.p`
+
+export const AlreadyHaveText = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 19px;
-
-    color: #e5e044;
 `
 
-export const CreateText = styled.p`
+export const LoginText = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
@@ -63,8 +62,17 @@ export const CreateText = styled.p`
     color: #92e307;
 `
 
+export const RegisterText = styled.p`
+    margin-top: 1.75rem;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 19px;
+`
+
 export const Wrapper = styled.div`
-    max-width: 300px;
+    max-width: 20rem;
 `
 
 export const Column = styled.div`
@@ -74,7 +82,7 @@ export const Column = styled.div`
 export const Row = styled.div`
     display: flx;
     flex-direction: row;
-    justify-content: space-between;
     align-items: center;
     margin-top: 20px;
+    gap: .25rem;
 `

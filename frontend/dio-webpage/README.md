@@ -26,7 +26,7 @@ This is a solution to `Orange Tech+` from [Digital Innovation One](https://www.d
 ## Overview
 
 ### <b id="the-challenge">The challenge</b>
-- The project goals was develop Dio's `homepage`, `login` page and `feed` page using the knowledge about `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
+- The project goals was develop Dio's `homepage`, `login` page, `register` page and `feed` page using the knowledge about `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
 
 ### <b id="screenshot">Screenshot</b>
 
