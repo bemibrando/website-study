@@ -84,13 +84,13 @@ The project goals was develop a landing page using the knowledge about HTML mark
 
 <br />
 
-### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/dio-webpage"><b id="dio-homepage">Dio HomePage</b></a> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/project/dio-webpage?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/>
+### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/dio-webpage"><b id="dio-homepage">Dio HomePage</b></a> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/project/dio-webpage?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/> 
 Solution developed to <b>Orange Tech +</b> from [Digital Innovation One](https://www.dio.me/en).<br>
-The project goals was develop Dio's `homepage`, `login` page and `feed` page using the knowledge about `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
+The project goals was develop Dio's `homepage`, `login` page, `register` page and `feed` page using the knowledge about `TypeScript` and `ReactJs` to build a componentized website and styled-components and react-router-dom to help.
 
 <br />
 
-<b>Build with: </b> &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" />
+<b>Build with: </b> &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="24px" />
 
 <br />
 
@@ -102,6 +102,31 @@ The project goals was develop Dio's `homepage`, `login` page and `feed` page usi
 
 <p align="center">
     <img src="./dio-webpage/src/assets/home.jpeg" alt="Dio home page solution view" width="457px" />
+</p>
+
+</details>
+
+<br />
+
+### <a href="https://github.com/bemibrando/website-study/tree/main/frontend/react-login"><b id="react-login">React Login Front Validation</b></a> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/github/last-commit/bemibrando/website-study/project/react-login?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-done-green?style=for-the-badge" height="24px"/> 
+Solution developed to <b>Orange Tech +</b> from [Digital Innovation One](https://www.dio.me/en).<br>
+The project goals was develop a Login button that is disabled by default and when the conditions are met, activate the button using the knowledge about `ReactJs` to build a componentized website and styled-components, yup and react-hook-form to help.
+
+<br />
+
+<b>Build with: </b> &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24px" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="24px" />
+
+<br />
+
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/website-study/tree/main/frontend/react-login)
+
+<details>
+<summary>Screenshot</summary>
+<br />
+
+<p align="center">
+    <img src="./react-login/src/assets/disabled.jpeg" alt="Login screen with button disabled" width="457px" />
+    <img src="./react-login/src/assets/valid.jpeg" alt="Login screen with button actived" width="457px" />
 </p>
 
 </details>
