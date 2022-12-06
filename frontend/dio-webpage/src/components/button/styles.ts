@@ -5,6 +5,7 @@ export const ButtonContainer = styled.button<IButtonStyled>`
     background: #565656;
     border-radius: 22px;
     position: relative;
+    cursor: pointer;
 
     color: #FFFFFF;
     padding: 2px 12px;

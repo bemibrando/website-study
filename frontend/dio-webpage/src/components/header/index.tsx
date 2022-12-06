@@ -21,6 +21,9 @@ const Header = ({user_auth}: IHeader) => {
     const handleClickSignIn = () => {
         navigate('/login')
     }
+    const handleClickRegister = () => {
+        navigate('/register')
+    }
     const handleClickHome = () => {
         navigate('/')
     }
@@ -51,7 +54,7 @@ const Header = ({user_auth}: IHeader) => {
                     : (<>
                         <MenuRight href="#">Home</MenuRight>
                         <Button title='Sign in' onClick={handleClickSignIn}/>
-                        <Button title='Register' />
+                        <Button title='Register' onClick={handleClickRegister} />
                     </>)
                     }
                 </Row>
